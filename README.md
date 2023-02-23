@@ -5,7 +5,7 @@ A minimal app for Windows users to make sound when a mouse enters the adjacent s
 <h3>To test the app</h3>
 
 Simpy download the files in the same folder and run the script below.
-python ./myNextScreen.py
+```python ./myNextScreen.py```
 
 <hr>
 <h3>To get started with exe file</h3>
