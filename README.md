@@ -5,6 +5,7 @@ A minimal app to make sound when a mouse enters the adjacent screen in your mult
 **To get started:**
 
 0) If you have not yet installed Nukita, install Nukita (https://pypi.org/project/Nuitka/)
+
    $ pip install Nuitka
 1) Download all files in the same folder.  The folder name could be anything in English.
 2) Open a termial in the folder.
