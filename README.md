@@ -24,4 +24,5 @@ nuitka --standalone --onefile --windows-disable-console --windows-icon-from-ico=
    
 <h3>To customize the sounds or icon</h3>
 
-1) Simply replace your wave file with the existing file.
+1) Simply replace the existing file(s) with your new files.
+   Note that you cannot change the file names.
