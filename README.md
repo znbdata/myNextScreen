@@ -17,7 +17,7 @@ python ./myNextScreen.py
 2) Open a termial in the folder.
 3) Run the one-line script below.
 
-nuitka --standalone --onefile --windows-disable-console --windows-icon-from-ico=.\nextScreen.ico --include-data-file=.\enter_sound.wav=.\enter_sound.wav --include-data-file=.\exit_sound.wav=.\exit_sound.wav .\nextScreen.py
+```nuitka --standalone --onefile --windows-disable-console --windows-icon-from-ico=.\nextScreen.ico --include-data-file=.\enter_sound.wav=.\enter_sound.wav --include-data-file=.\exit_sound.wav=.\exit_sound.wav .\nextScreen.py```
 
 4) Run the myNextScreen.exe
    You don't need any other files or folders to run the app once you have created the .exe file.
