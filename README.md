@@ -1,5 +1,5 @@
 # myNextScreen
-A minimal app for Windows users to make sound when a mouse enters the adjacent screen in your multiple display environment.
+A minimal app for Windows users to make sound when a mouse enters the adjacent screen in an multiple display environment.
 
 <hr>
 <h3>To test the app</h3>
