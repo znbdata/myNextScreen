@@ -11,7 +11,7 @@ Simpy download the files in the same folder and run the script below.
 <hr>
 <h3>To get started with exe file</h3>
 
-0) If you have not yet installed Nukita, install Nukita (https://pypi.org/project/Nuitka/)
+0) If you have not yet installed Nuitka, install Nuitka (https://pypi.org/project/Nuitka/)
 
    $ pip install Nuitka
 1) Download all files in the same folder.  The folder name could be anything in English.
